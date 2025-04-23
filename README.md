@@ -39,6 +39,7 @@ Implementation of Pseudorandom Number Generation Using Standard library
 
 # OUTPUT:
 
+![image](https://github.com/user-attachments/assets/b6edf87a-4095-4b89-b1eb-467929738932)
 
 
 # RESULT:
